@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/android/build/
+/build/
+/common/build/
+/common/build/classes/kotlin/desktop/main/
+/desktop/build/
+/desktop/build/classes/kotlin/jvm/main/
+/jsApp/build/
